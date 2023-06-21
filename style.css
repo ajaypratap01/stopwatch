@@ -1,0 +1,16 @@
+body{background-color: black;}
+.stopwatch { color: #fff;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  #display {
+    font-size: 48px;
+  }
+  
+  button {
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  
